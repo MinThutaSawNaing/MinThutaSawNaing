@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Alibaba%20Cloud-Certified%20(7%C3%97)-FF6A00?logo=alibabacloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alibaba%20Cloud-Certified%20(8%C3%97)-FF6A00?logo=alibabacloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-AZ--900%20%7C%20AZ--104%20%7C%20AZ--305-0078D4?logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-Skilled-4285F4?logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Location-Yangon,%20Myanmar-2EA44F"/>
