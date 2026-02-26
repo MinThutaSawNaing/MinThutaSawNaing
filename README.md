@@ -1,82 +1,129 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Min Thuta Saw Naing (Eric) 👋</h1>
+<h1 align="center">Hi, I'm Min Thu Ta Saw Naing 👋</h1>
 <p align="center">
-  <b>Cloud Engineer • DevOps • Cloud Security • Full-Stack</b>
+  <b>Cloud & Network Security Engineer | DevOps Engineer | Multi-Cloud Architect</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MinThutaSawNaing">
-    <img src="https://img.shields.io/badge/GitHub-MinThutaSawNaing-181717?logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud%20Security-0A66C2" />
-  <img src="https://img.shields.io/badge/Location-Myanmar%20%2F%20Singapore-2EA44F" />
+  <img src="https://img.shields.io/badge/Alibaba%20Cloud-Certified%20(7×)-FF6A00?logo=alibabacloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-AZ--900%20%7C%20AZ--104%20%7C%20AZ--305-0078D4?logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-Skilled-4285F4?logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Yangon,%20Myanmar-2EA44F"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- ☁️ Cloud Engineer who loves coding and full-stack development  
-- 🔐 Learning & building around **DevOps** and **Cloud Security**  
-- 🧩 Enjoy shipping practical systems (management tools, web apps, automation)
+
+I’m a **Cloud & Network Security Engineer** and **DevOps Engineer** with hands-on experience designing, deploying, and securing cloud-native infrastructure across:
+
+- ☁️ Alibaba Cloud  
+- ☁️ Huawei Cloud  
+- ☁️ AWS  
+- ☁️ Azure  
+- 🖥️ Private Clouds (Proxmox, Nutanix)
+
+I specialize in:
+
+- 🔐 Cloud Security & Infrastructure Hardening  
+- 🐳 Containerization & Orchestration (Docker)  
+- 🔁 CI/CD & Automation  
+- 🌐 Core Network Architecture & Multi-Region Connectivity  
+- 🧠 Secure Backend Systems (Python, Flask, Laravel)  
+
+I build **secure, scalable, and production-ready systems** — from encrypted applications to enterprise-level distributed environments.
 
 ---
 
-## 🧰 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,python,js,ts,html,css,react,nodejs,flask,mongodb,postgres,git,githubactions" />
-</p>
+## 💼 Current Role
+
+**Network Engineer (Cloud) & Developer**  
+Designing and implementing mission-critical VM and RAID storage solutions in multi-cloud and hybrid environments.
+
+- Architecting resilient cloud infrastructures  
+- Managing enterprise virtualized environments  
+- Deploying secure distributed systems  
+
+---
+
+## 🧰 Technical Stack
+
+### ☁️ Cloud & Infrastructure
+AWS • Alibaba Cloud • Huawei Cloud • Azure • GCP  
+Proxmox • Nutanix • Linux Servers • RAID Systems  
+
+### 🔐 Security
+Cloud Security Architecture  
+Infrastructure Hardening  
+HSM Integration  
+Data Privacy & AI Safety  
+
+### 🛠 DevOps & Development
+Docker • GitHub Actions • CI/CD  
+Python • Flask • Laravel  
+Networking (DNS, Load Balancing, Core Network Design)
 
 ---
 
 ## 🚀 Featured Projects
-<p>
-  <!-- Pinned projects (from your GitHub profile) -->
-  <a href="https://github.com/MinThutaSawNaing/DentalCloud-by-Thuta">
-    <img src="https://img.shields.io/badge/DentalCloud--by--Thuta-Professional%20Dental%20Clinic%20System-4C1?style=for-the-badge" />
-  </a>
-  <br/>
-  <a href="https://github.com/MinThutaSawNaing/Japanese-Learning-Center-Development">
-    <img src="https://img.shields.io/badge/Japanese%20Learning%20Center-Development-0A66C2?style=for-the-badge" />
-  </a>
-  <br/>
-  <a href="https://github.com/MinThutaSawNaing/MeetMe">
-    <img src="https://img.shields.io/badge/MeetMe-Real--time%20Chat%20App-181717?style=for-the-badge" />
-  </a>
-  <br/>
-  <a href="https://github.com/MinThutaSawNaing/POS_System_by_Thuta">
-    <img src="https://img.shields.io/badge/POS%20System-Professional%20POS-2EA44F?style=for-the-badge" />
-  </a>
-</p>
+
+🔹 **DentalCloud-by-Thuta**  
+Professional Dental Clinic Management System  
+
+🔹 **POS System by Thuta**  
+Production-grade Point of Sale System  
+
+🔹 **MeetMe**  
+Real-time Chat Application  
+
+🔹 **Japanese Learning Center Development**  
+Education Platform System  
 
 ---
 
-## 🏆 Achievements
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MinThutaSawNaing&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
+## 🏆 Certifications
+
+- 🟠 Alibaba Cloud Certified: Cloud Security Engineer  
+- 🔵 Microsoft Azure (AZ-900, AZ-104, AZ-305)  
+- 🌐 JumpCloud Core Certified  
+- 📡 Server Load Balancing Fundamentals  
+- 🌍 Role of DNS in Networking  
 
 ---
 
 ## 📊 GitHub Stats & Activity
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinThutaSawNaing&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MinThutaSawNaing&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinThutaSawNaing&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MinThutaSawNaing&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinThutaSawNaing&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinThutaSawNaing&theme=github-compact" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinThutaSawNaing&theme=github-compact" />
 </p>
 
 ---
 
-## 🤝 Connect
-- 💬 Open an issue on a repo if you want to collaborate
-- ⭐ If you like my projects, consider starring them!
+## 🎯 Professional Focus
+
+✔ Cloud Security Engineering  
+✔ DevOps & Automation  
+✔ Multi-Cloud Architecture  
+✔ Enterprise Networking  
+✔ Secure Application Development  
+
+---
+
+## 🤝 Let's Connect
+
+📧 minthuta2612@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/min-thu-ta-saw-naing-41948b232  
+
+---
 
 <p align="center">
-  <sub>Last updated automatically when you commit 🚀</sub>
+  <i>"Always exploring new technologies. Always leveling up."</i>
 </p>
