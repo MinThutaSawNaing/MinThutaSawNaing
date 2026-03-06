@@ -128,38 +128,3 @@ Designing and implementing mission-critical **VM + RAID storage solutions** acro
 🔗 **LinkedIn:** https://www.linkedin.com/in/min-thu-ta-saw-naing-41948b232  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=footer" width="100%"/>
-
-<!-- Snake Animation Setup Guide (GitHub Actions) -->
-<details>
-  <summary><b>⚙️ Enable the Contribution Snake Animation (GitHub Actions)</b></summary>
-
-  1) Create this file in your repo:  
-  <code>.github/workflows/snake.yml</code>
-
-  2) Paste this workflow:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: MinThutaSawNaing
-          outputs: |
-            output/github-contribution-grid-snake.svg
-      - uses: EndBug/add-and-commit@v9
-        with:
-          add: "output/github-contribution-grid-snake.svg"
-          message: "Update contribution snake"
