@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=header" width="100%"/>
 <!-- Animated Header -->
 <h1 align="center">
   Hi, I'm Min Thu Ta Saw Naing 👋
@@ -24,8 +25,6 @@
     <img src="https://img.shields.io/badge/Email-minthuta2612%40gmail.com-EA4335?logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=header" width="100%"/>
 
 ---
 
